@@ -1,0 +1,2 @@
+# VerifyPicture
+使用python的opencv和tesseract识别验证码
